@@ -10,8 +10,8 @@ Incluye una librería de funciones para **Sysmac Studio** que simplifica el pars
 
 ##  Estructura del Proyecto
 
-- **`/Source`**: Contiene el código fuente en Structured Text (ST) de las funciones y bloques de función
-- **`/Sysmac_Project`**: Archivos del proyecto de Sysmac Studio (configuración y Ladder), y la librería exportada.
+- **`/source`**: Contiene el código fuente en Structured Text (ST) de las funciones y bloques de función
+- **`/sysmac_project`**: Archivos del proyecto de Sysmac Studio (configuración y Ladder), y la librería exportada.
 
 ##  Instalación
 

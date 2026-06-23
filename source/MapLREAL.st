@@ -1,0 +1,1 @@
+MapLREAL := (Num - In_Min) * (Out_Max - Out_Min) / (In_Max - In_Min) + Out_Min;
